@@ -147,6 +147,8 @@ relacionamento entre entidades com Prisma
 upload de arquivos
 integração entre React e API
 utilização de banco de dados
+
+
 Próximos passos
 
 Algumas melhorias que pretendo implementar futuramente:
